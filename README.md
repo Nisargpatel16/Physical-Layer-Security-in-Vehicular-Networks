@@ -1,2 +1,2 @@
-# Physical-Layer-Security-PLS-in-Vehicular-Networks
+# Physical-Layer-Security-in-Vehicular-Networks
 A project in wireless communication domain.
